@@ -33,7 +33,7 @@
   },
   {
     "id": "n17817029562302515",
-    "text": "# 스킬: 🎬 후킹 분석기\n본인 채널 최근 영상의 첫 30초 후킹 패턴을 자동 분석.\n실행 가능한 파이썬 스킬: <run>python3 \"C:\\Users\\supoo\\Desktop\\connect-ai-packs\\스킬\\youtube\\hook_analyzer.py\"</run>",
+    "text": "# 스킬: 🎬 후킹 분석기\n본인 채널 최근 영상의 첫 30초 후킹 패턴을 자동 분석.\n실행 가능한 파이썬 스킬: <run>python \"C:\\Users\\supoo\\Desktop\\connect-ai-packs\\스킬\\youtube\\hook_analyzer.py\"</run>",
     "tags": [
       "스킬",
       "후킹",
@@ -45,6 +45,44 @@
     "ts": 1781702956230,
     "category": "marketing",
     "source": "ezerai",
+    "verified": true
+  },
+  {
+    "id": "n17899047261447",
+    "text": "# 스킬: 👗 패션·연예 최신 블로그 비서 (화질 레벨업 기본 장착)\n어떤 연예인이든 최신 사진을 다음(Daum)에서 수집하고, 신문사/방송사 워터마크를 제거하며, 🔥[화질 레벨업 엔진]으로 사진을 선명하고 큼직하게 업스케일링한 뒤, 나만의N방송연예경제봇 황금 문체 공식으로 네이버 블로그 원고와 사진 배치를 완성합니다.\n사용 예시: \"아이유 가방 찾아줘\", \"차은우 셔츠 글 써줘\", \"사진 화질 레벨업해서 블로그 써줘\"\n실행 가능한 파이썬 스킬: <run>python \"C:\\Connect AI\\connect-ai-packs\\스킬\\fashion_blog\\run_assistant.py\" --keyword \"{키워드}\"</run>",
+    "tags": [
+      "스킬",
+      "패션",
+      "연예",
+      "블로그",
+      "워터마크",
+      "사진",
+      "run",
+      "비서",
+      "화질",
+      "선명",
+      "업스케일"
+    ],
+    "ts": 1789904726144,
+    "category": "marketing",
+    "source": "antigravity",
+    "verified": true
+  },
+  {
+    "id": "n17899047261448",
+    "text": "# 스킬: 🩺 Connect AI 자가 진단 및 오류 치료기\n비서 프로그램의 라이브러리, 인터넷 연결, API 키, 파일 저장 권한 상태를 종합 점검하고 오류를 진단합니다.\n실행 가능한 파이썬 스킬: <run>python \"C:\\Connect AI\\connect-ai-packs\\스킬\\fashion_blog\\self_healer.py\"</run>",
+    "tags": [
+      "스킬",
+      "진단",
+      "오류",
+      "점검",
+      "치료",
+      "run",
+      "비서"
+    ],
+    "ts": 1789904726144,
+    "category": "system",
+    "source": "antigravity",
     "verified": true
   }
 ]
